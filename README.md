@@ -85,9 +85,9 @@ To evaluate the LCD performance, you will need to **download** the required data
                        └── ...
 ```
 
-# Step3.Train & Validate
-
-Note: In you virtual env(e.g. SAMe3d) establied from above Step1 to run the belows.
+# Train & Validate
+Scattering_Context foler is our proposed method. Other_SOTA_algorithms folder is other algorithms. 
+<br> Next, taking the method of this paper as an example, the experimental process is described.
 ## Pretrained Models
 -- We provide a pretrained model [LINK](https://pan.baidu.com/s/15_1Z8cfxTB6reRiA05bG8Q?pwd=wf40) (access code: wf40)
 
