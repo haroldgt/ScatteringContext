@@ -27,13 +27,13 @@ To evaluate the LCD performance, you will need to **download** the required data
         |       ├── 000000.label
         |       ├── 000001.label
         |       └── ...
-        ├── 08/ 
-        ├── 11/ 
+        ├── 02/ 
+        ├── 05/ 
         │   ├── velodyne/	
         |    	├── 000000.bin
         |    	├── 000001.bin
         |    	└── ...
-        └── 21/
+        └── 06/
 	       └── ...
 
 ```
