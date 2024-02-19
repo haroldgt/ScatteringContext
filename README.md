@@ -113,4 +113,5 @@ Modify the groundtruth pose file path in line 14.
 Similar to the above step, it is performed under the corresponding folder (e.g., Other_SOTA_algorithms folder). Other_SOTA_algorithms folder is other algorithms.
 
 ## Acknowledgments
-We thanks for the opensource codebases, [M2DP](https://github.com/xinge008/Cylinder3D), [Scan Context](https://github.com/traveller59/spconv), [NDD](https://github.com/traveller59/spconv) and [FreSCo](https://github.com/xinge008/Cylinder3D).
+We thanks for the opensource codebases, [M2DP](https://github.com/LiHeUA/M2DP), [Scan Context](https://github.com/asdfghjkl623/scancontext/tree/master/matlab
+), [NDD](https://github.com/zhouruihao1001/NDD) and [FreSCo](https://github.com/soytony/FreSCo).
