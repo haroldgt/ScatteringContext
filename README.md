@@ -86,14 +86,13 @@ To evaluate the LCD performance, you will need to **download** the required data
 ```
 
 # Train & Validate
-Scattering_Context foler is our proposed method. Other_SOTA_algorithms folder is other algorithms. 
+Scattering_Context folder is our proposed method. Other_SOTA_algorithms folder is other algorithms. 
 <br> Next, taking the method of this paper as an example, the experimental process is described.
-## Pretrained Models
--- We provide a pretrained model [LINK](https://pan.baidu.com/s/15_1Z8cfxTB6reRiA05bG8Q?pwd=wf40) (access code: wf40)
 
-- To train on **Sany-Mixing Station dataset**, run
+- To test on **KITTI dataset**, Open Scattering_Context/main/main1_about_KITTI_Dataset.m file
 ```
- python train.py --config_path config/sany_mixing_parameters.yaml --device 0
+Modify the specific sequence path in line 13.
+Modify the groundtruth pose file path in line 14.
 ```
 - To train on **Sany-Proving ground dataset**, run
 ```
