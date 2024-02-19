@@ -11,7 +11,7 @@ This repo contains the source code and dataset for our paper:
 To evaluate the LCD performance, you will need to **download** the required datasets.
 
 - SemanticKITTI Dataset- [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos).
-We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
+<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
 ├── 
@@ -38,7 +38,7 @@ We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder
 
 ```
 - MulRan Dataset- [downlaod](https://sites.google.com/view/mulran-pr/home).
-We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. Sejong01 sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link)
+<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. Sejong01 sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link).
 ```
 ./
 ├── 
