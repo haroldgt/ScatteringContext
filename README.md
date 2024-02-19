@@ -37,7 +37,8 @@ We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder
         ├── ...
 
 ```
-- MulRan - [Google Drive]
+- MulRan - [downlaod](https://sites.google.com/view/mulran-pr/home)
+- Sejong01 - [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link).
 We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
@@ -45,7 +46,7 @@ We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder
 ├── ...
 └── data_path/
     ├──mulran
-        ├── [Sejong01](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link)/      
+        ├── Sejong01/      
         │   	└── lidar/
 	│		├── 000000.bin          
         |               ├── 000001.bin
