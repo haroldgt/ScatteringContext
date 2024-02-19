@@ -38,7 +38,7 @@ We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder
 
 ```
 - MulRan Dataset- [downlaod](https://sites.google.com/view/mulran-pr/home)
-- Sejong01 - [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link).
+-- Sejong01 - [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link).
 We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
