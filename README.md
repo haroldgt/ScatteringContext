@@ -8,8 +8,33 @@ This repo contains the source code and dataset for our paper:
 ![SAMe3d](/Figs/Backbone_work.jpg)
 
 # Data Download and Preparation
-We have organized these three datasets. To evaluate/train point cloud, you will need to **download** the required datasets.
+To evaluate the LCD performance, you will need to **download** the required datasets.
 
+- SemanticKITTI - [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos)
+```
+./
+├── 
+├── ...
+└── data_path/
+    ├──sequences
+        ├── 00/          
+        │   ├── velodyne/	
+        |   |	├── 000000.bin
+        |   |	├── 000001.bin
+        |   |	└── ...
+        │   └── labels/ 
+        |       ├── 000000.label
+        |       ├── 000001.label
+        |       └── ...
+        ├── 08/ 
+        ├── 11/ 
+        │   ├── velodyne/	
+        |    	├── 000000.bin
+        |    	├── 000001.bin
+        |    	└── ...
+        └── 21/
+	       └── ...
+```
 - Sany (ours) - [Baidu Drive](https://pan.baidu.com/s/10F5ezH4LgT9glGZ_A16BuQ)(Acquiring copyright)
 ```
 ./
@@ -54,31 +79,6 @@ We have organized these three datasets. To evaluate/train point cloud, you will 
 	├── nuscenes_infos_train.pkl/
 	├── nuscenes_infos_val.pkl/
         └── nuscenes_infos_test.pkl/
-```
-- SemanticKITTI - [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos)
-```
-./
-├── 
-├── ...
-└── data_path/
-    ├──sequences
-        ├── 00/ # 00-07,09-10 for training          
-        │   ├── velodyne/	
-        |   |	├── 000000.bin
-        |   |	├── 000001.bin
-        |   |	└── ...
-        │   └── labels/ 
-        |       ├── 000000.label
-        |       ├── 000001.label
-        |       └── ...
-        ├── 08/ # for validation
-        ├── 11/ # 11-21 for testing
-        │   ├── velodyne/	
-        |    	├── 000000.bin
-        |    	├── 000001.bin
-        |    	└── ...
-        └── 21/
-	       └── ...
 ```
 
 # Step3.Train & Validate
