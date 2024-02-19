@@ -4,8 +4,7 @@ This repo contains the source code and dataset for our paper:
 <br>
 [**PMF-SLAM: Pose-guided and Multi-scale Feature Interaction Based Semantic SLAM for Autonomous Wheel Loader**](https://ieeexplore.ieee.org/document/10405860/)
 <br>
-[paper](https://ieeexplore.ieee.org/document/10405860/)
-![SAMe3d](/Figs/Backbone_work.jpg)
+[paper](https://github.com/haroldgt/ScatteringContext/edit/main/README.md)
 
 # Data Download and Preparation
 To evaluate the LCD performance, you will need to **download** the required datasets.
