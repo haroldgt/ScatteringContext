@@ -38,7 +38,7 @@ To evaluate the LCD performance, you will need to **download** the required data
 
 ```
 - MulRan Dataset- [downlaod](https://sites.google.com/view/mulran-pr/home).
-<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. Sejong01 sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link).
+<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. Sejong01 sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=sharing).
 ```
 ./
 ├── 
@@ -57,23 +57,17 @@ To evaluate the LCD performance, you will need to **download** the required data
 	|		└── ...
         ├── ...
 ```
-- nuScenes - [Baidu Drive](https://pan.baidu.com/s/1TF80roYGuIm6FhDo0DBmgg?pwd=ai67)(access code: ai67)
+- Freiburg Campus Dataset - [downlaod](https://drive.google.com/file/d/1eJFcMEEcNQynoNqeYoyBIZi0I4Gs1mH6/view?usp=sharing)
 ```
 ./
 ├── 
 ├── ...
 └── data_path/
-    ├──nuscenes
-        ├── lidarseg/   
-        ├── maps/
-	├── samples/
-        │   └── LIDAR_TOP/	
-        |    	├── n008-2018-05-21-11-06-59-0400_LIDAR_TOP_1526915243547836.pcd.bin
-        |    	└── ...
-	├── v1.0-trainval/
-	├── nuscenes_infos_train.pkl/
-	├── nuscenes_infos_val.pkl/
-        └── nuscenes_infos_test.pkl/
+    ├──Freiburg
+        └── lidar/   	
+            	├── 000000.bin
+                ├── 000001.bin
+            	└── ...
 ```
 
 # Step3.Train & Validate
