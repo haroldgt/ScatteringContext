@@ -85,7 +85,7 @@ To evaluate the LCD performance, you will need to **download** the required data
                        └── ...
 ```
 
-# Train & Validate
+# Run & Validate STC algorithm
 Scattering_Context folder is our proposed method. Other_SOTA_algorithms folder is other algorithms. 
 <br> Next, taking the method of this paper as an example, the experimental process is described.
 
@@ -109,6 +109,8 @@ Modify the groundtruth pose file path in line 14.
 Modify the specific sequence path in line 13.
 Modify the groundtruth pose file path in line 14.
 ```
+# Run & Validate other algorithms (M2DP, NDD, Scan Context, FreSCo)
+Similar to the above step, it is performed under the corresponding folder (e.g., Other_SOTA_algorithms folder).
 
 ## Acknowledgments
 We thanks for the opensource codebases, [Cylinder3D](https://github.com/xinge008/Cylinder3D) and [spconv](https://github.com/traveller59/spconv)
