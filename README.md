@@ -33,8 +33,8 @@ To evaluate the LCD performance, you will need to **download** the required data
         |    	├── 000000.bin
         |    	├── 000001.bin
         |    	└── ...
-        └── 06/
-        └── ...
+        ├── 06/
+        |── ...
 
 ```
 - Sany (ours) - [Baidu Drive](https://pan.baidu.com/s/10F5ezH4LgT9glGZ_A16BuQ)(Acquiring copyright)
