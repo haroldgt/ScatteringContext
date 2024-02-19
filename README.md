@@ -37,7 +37,7 @@ To evaluate the LCD performance, you will need to **download** the required data
         ├── ...
 
 ```
-- MulRan Dataset- [downlaod](https://sites.google.com/view/mulran-pr/home).
+- MulRan Dataset- [download](https://sites.google.com/view/mulran-pr/home).
 <br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. Sejong01 sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=sharing).
 ```
 ./
@@ -57,7 +57,7 @@ To evaluate the LCD performance, you will need to **download** the required data
 	|		└── ...
         ├── ...
 ```
-- Freiburg Campus Dataset - [downlaod](https://drive.google.com/file/d/1eJFcMEEcNQynoNqeYoyBIZi0I4Gs1mH6/view?usp=sharing).
+- Freiburg Campus Dataset - [download](https://drive.google.com/file/d/1eJFcMEEcNQynoNqeYoyBIZi0I4Gs1mH6/view?usp=sharing).
 <br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
