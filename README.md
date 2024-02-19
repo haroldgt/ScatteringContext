@@ -57,7 +57,8 @@ To evaluate the LCD performance, you will need to **download** the required data
 	|		└── ...
         ├── ...
 ```
-- Freiburg Campus Dataset - [downlaod](https://drive.google.com/file/d/1eJFcMEEcNQynoNqeYoyBIZi0I4Gs1mH6/view?usp=sharing)
+- Freiburg Campus Dataset - [downlaod](https://drive.google.com/file/d/1eJFcMEEcNQynoNqeYoyBIZi0I4Gs1mH6/view?usp=sharing).
+<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
 ├── 
