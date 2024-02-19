@@ -86,7 +86,7 @@ To evaluate the LCD performance, you will need to **download** the required data
 ```
 
 # Run & Validate STC algorithm
-Scattering_Context folder is our proposed method. Other_SOTA_algorithms folder is other algorithms. 
+Scattering_Context folder is our proposed method. 
 <br> Next, taking the method of this paper as an example, the experimental process is described.
 
 - To test on **KITTI dataset**, Open Scattering_Context/main/main1_about_KITTI_Dataset.m file
@@ -110,7 +110,7 @@ Modify the specific sequence path in line 13.
 Modify the groundtruth pose file path in line 14.
 ```
 # Run & Validate other algorithms (M2DP, NDD, Scan Context, FreSCo)
-Similar to the above step, it is performed under the corresponding folder (e.g., Other_SOTA_algorithms folder).
+Similar to the above step, it is performed under the corresponding folder (e.g., Other_SOTA_algorithms folder). Other_SOTA_algorithms folder is other algorithms.
 
 ## Acknowledgments
-We thanks for the opensource codebases, [Cylinder3D](https://github.com/xinge008/Cylinder3D) and [spconv](https://github.com/traveller59/spconv)
+We thanks for the opensource codebases, [M2DP](https://github.com/xinge008/Cylinder3D), [Scan Context](https://github.com/traveller59/spconv), [NDD](https://github.com/traveller59/spconv) and [FreSCo](https://github.com/xinge008/Cylinder3D).
