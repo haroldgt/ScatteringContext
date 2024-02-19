@@ -70,6 +70,20 @@ To evaluate the LCD performance, you will need to **download** the required data
                 ├── 000001.bin
             	└── ...
 ```
+- UrbanLoco Dataset - [download](https://github.com/weisongwen/UrbanLoco).
+<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. CALombardStreet sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/1-av6k8BvpDnchmYWyNnlD4foK5D2vCEe/view?usp=sharing).
+```
+./
+├── 
+├── ...
+└── data_path/
+    ├──UrbanLoco
+        └── CALombardStreet/      
+           	└── lidar/
+                       ├── 000000.bin          
+                       ├── 000001.bin
+                       └── ...
+```
 
 # Step3.Train & Validate
 
