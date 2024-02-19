@@ -1,4 +1,4 @@
-# PMF-SLAM: Pose-guided and Multi-scale Feature Interaction Based Semantic SLAM for Autonomous Wheel Loader
+# Scattering Context: Dual-view Encoding-Based 3D Descriptor and Fast Search Strategy for Loop Closure Detection
 ### State Key Lab of Rail Traffic Control & Safety (BJTU)
 This repo contains the source code and dataset for our paper:
 <br>
