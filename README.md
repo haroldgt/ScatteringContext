@@ -94,17 +94,20 @@ Scattering_Context folder is our proposed method. Other_SOTA_algorithms folder i
 Modify the specific sequence path in line 13.
 Modify the groundtruth pose file path in line 14.
 ```
-- To train on **Sany-Proving ground dataset**, run
+- To test on **MulRan dataset**, Open Scattering_Context/main/main2_about_KITTI_Dataset.m file
 ```
- python train.py --config_path config/sany_points_parameters.yaml --device 0
+Modify the specific sequence path in line 13.
+Modify the groundtruth pose file path in line 14.
 ```
-- To train on **nuScenes dataset**, run
+- To test on **Freiburg Campus dataset**, Open Scattering_Context/main/main3_about_KITTI_Dataset.m file
 ```
- python train_nuscene.py --config_path config/nuScenes.yaml --device 0
+Modify the specific sequence path in line 13.
+Modify the groundtruth pose file path in line 14.
 ```
-- To train on **SemanticKITTI dataset**, run
+- To test on **UrbanLoco dataset**, Open Scattering_Context/main/main4_about_KITTI_Dataset.m file
 ```
- python train.py --config_path config/parameters.yaml --device 0
+Modify the specific sequence path in line 13.
+Modify the groundtruth pose file path in line 14.
 ```
 
 ## Acknowledgments
