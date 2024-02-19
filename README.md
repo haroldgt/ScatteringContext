@@ -11,7 +11,7 @@ This repo contains the source code and dataset for our paper:
 To evaluate the LCD performance, you will need to **download** the required datasets.
 
 - SemanticKITTI - [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos)
-- We have provided the groundtruth Pose of this dataset (in Groundtruth_pose folder).
+We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
 ├── 
