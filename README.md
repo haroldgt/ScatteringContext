@@ -37,32 +37,25 @@ We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder
         ├── ...
 
 ```
-- MulRan - [Baidu Drive](https://pan.baidu.com/s/10F5ezH4LgT9glGZ_A16BuQ)
+- MulRan - [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=drive_link).
+We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
 ├── 
 ├── ...
 └── data_path/
-    ├──sany
-        ├── Mixing_station(MS)/ # Mixing station scene.       
-        │   	└── sequences/
-	│		├── 00/ # for training          
-	│		│   ├── velodyne/	
-	│		|   |	├── xxx.bin
-	│		|   |	├── xxx.bin
-	│		|   |	└── ...
-	│		│   └── labels/ 
-	│		|       ├── xxx.label
-	│		|       ├── xxx.label
-	│		|       └── ...
-	│		├── 01/ # for validation
-	│		└── 02/ # for testing
-        └── points(PG)/ # Proving ground scene.
-	   	└── sequences/
-			├── 00/ # for training          
-			|   └── ...
-			├── 01/ # for validation
-			└── 02/ # for testing
+    ├──mulran
+        ├── Sejong01/      
+        │   	└── lidar/
+	│		├── 000000.bin          
+        |               ├── 000001.bin
+	│		└── ...
+        ├── Riverside02/
+	|   	└── lidar/
+	|		├── 000000.bin          
+	|		├── 000001.bin
+	|		└── ...
+        ├── ...
 ```
 - nuScenes - [Baidu Drive](https://pan.baidu.com/s/1TF80roYGuIm6FhDo0DBmgg?pwd=ai67)(access code: ai67)
 ```
