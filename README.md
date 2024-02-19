@@ -37,7 +37,7 @@ We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder
         ├── ...
 
 ```
-- Sany (ours) - [Baidu Drive](https://pan.baidu.com/s/10F5ezH4LgT9glGZ_A16BuQ)(Acquiring copyright)
+- MulRan - [Baidu Drive](https://pan.baidu.com/s/10F5ezH4LgT9glGZ_A16BuQ)
 ```
 ./
 ├── 
