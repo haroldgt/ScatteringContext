@@ -1,5 +1,5 @@
 # Scattering Context: Dual-view Encoding-Based 3D Descriptor and Fast Search Strategy for Loop Closure Detection
-### State Key Lab of Rail Traffic Control & Safety, Beijing Jiaotong University(BJTU)
+### State Key Lab of Advanced Rail Autonomous Operation, Beijing Jiaotong University(BJTU)
 This repo contains the source code and dataset for our paper:
 <br>
 [**PMF-SLAM: Pose-guided and Multi-scale Feature Interaction Based Semantic SLAM for Autonomous Wheel Loader**](https://ieeexplore.ieee.org/document/10405860/)
